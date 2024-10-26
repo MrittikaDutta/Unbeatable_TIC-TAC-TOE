@@ -1,2 +1,3 @@
 # Unbeatable_TIC-TAC-TOE
-UNBEATABLE TIC TAC TOE GAME USING MIN MAX ALGORITHM
+UNBEATABLE TIC-TAC-TOE GAME
+This project is an unbeatable Tic-Tac-Toe game built with HTML, CSS, and JavaScript. It features a player vs. AI mode where the AI uses the Minimax algorithm to make optimal moves, ensuring it never loses. Players take turns marking cells on a 3x3 grid, with the goal to achieve a line of three symbols vertically, horizontally, or diagonally. The game displays the current player and offers a reset option to start a new game. Minimax allows the AI to evaluate all possible moves, maximizing its chances of winning and minimizing player success, creating an engaging and challenging experience. The project demonstrates core concepts of game development, algorithm implementation, and interactive web design.
